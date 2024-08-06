@@ -1,5 +1,5 @@
 # FlatFinderBot
-The Telegram bot for finding flats.
+The Telegram bot for finding flats. Use Selenium to parse site for finding flats.
 # Before start 
 1. Install several libs:
 ```bash
