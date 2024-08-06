@@ -7,3 +7,7 @@ pip install -r requirements.txt
 ```
 2. Install Google Chrome
 3. Get telegram token for bot and past in auth.py
+# Run
+```bash
+python3 main.py
+```
